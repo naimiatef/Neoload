@@ -157,8 +157,7 @@ smoke test), il faudrait configurer la partie scénario qui se trouve dans la pa
 Exécution.
 Ecran scénario
 Pour disposer de tous éléments dans la partie scénario, il faudrait au préalable :
-Accéder dans la partie Conception qui est divisé en 3 parties :
-● Parcours utilisateurs : qui permet de faire le recording ou scripting d’une application web en se basant sur un parcours utilisateur.
-● Population : elle permet de configurer tous les types d’utilisateurs virtuels utilisant l’application web. Aussi, des choix concernant les navigateurs et les réseaux (4g, H+, 3g) qu’ils utilisent ainsi que le nombre de chaque type d’utilisateurs virtuels sont
-configurables.
-● Moniteurs et connecteurs : elle permet d’ajouter des équipements (serveur, machine, OS), des bases de données, des RAM etc sur laquelle vont s’exécuter nostypes de test.
+Accéder dans la partie Conception qui est divisé en 3 parties : <br>
+<b>● Parcours utilisateurs : </b>qui permet de faire le recording ou scripting d’une application web en se basant sur un parcours utilisateur.<br>
+<b>● Population :</b> elle permet de configurer tous les types d’utilisateurs virtuels utilisant l’application web. Aussi, des choix concernant les navigateurs et les réseaux (4g, H+, 3g) qu’ils utilisent ainsi que le nombre de chaque type d’utilisateurs virtuels sont configurables. <br>
+<b>● Moniteurs et connecteurs : </b> elle permet d’ajouter des équipements (serveur, machine, OS), des bases de données, des RAM etc sur laquelle vont s’exécuter nostypes de test.
